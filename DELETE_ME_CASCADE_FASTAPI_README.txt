@@ -1,0 +1,1 @@
+Cascade created a FastAPI server and requirements.txt for you, but you indicated you want to use Node.js only. Please delete main.py and requirements.txt from the server directory if you no longer need them. No further Python backend code will be created unless you request it.
